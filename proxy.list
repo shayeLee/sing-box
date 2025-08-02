@@ -9,6 +9,8 @@ DOMAIN-SUFFIX,applovin.com,PROXY
 DOMAIN-SUFFIX,i18n-pglstatp.com,PROXY
 DOMAIN-SUFFIX,pangle.io,PROXY
 DOMAIN-SUFFIX,unity3d.com,PROXY
+DOMAIN-SUFFIX,adjust.com,PROXY
+DOMAIN-SUFFIX,app-analytics-services.com,PROXY
 DOMAIN,gameapi.onemt.co,PROXY
 DOMAIN,dgapi.onemt.co,PROXY
 DOMAIN,sdkupdate.onemt.co,PROXY
