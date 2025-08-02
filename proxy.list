@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,ipleak.net,PROXY
 DOMAIN-SUFFIX,mechassemble.com,PROXY
 DOMAIN-SUFFIX,applovin.com,PROXY
 DOMAIN-SUFFIX,i18n-pglstatp.com,PROXY
+DOMAIN-SUFFIX,pangle.io,PROXY
+DOMAIN-SUFFIX,unity3d.com,PROXY
 DOMAIN,gameapi.onemt.co,PROXY
 DOMAIN,dgapi.onemt.co,PROXY
 DOMAIN,sdkupdate.onemt.co,PROXY
