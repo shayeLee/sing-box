@@ -36,6 +36,8 @@ DOMAIN-SUFFIX,applvn.com,PROXY
 DOMAIN-SUFFIX,mechassemble.com,PROXY
 DOMAIN-SUFFIX,gh.io,PROXY
 DOMAIN-SUFFIX,brew.sh,PROXY
+DOMAIN-SUFFIX,segment.io,PROXY
+DOMAIN-SUFFIX,pypi.org,PROXY
 DOMAIN,gameapi.onemt.co,PROXY
 DOMAIN,dgapi.onemt.co,PROXY
 DOMAIN,sdkupdate.onemt.co,PROXY
