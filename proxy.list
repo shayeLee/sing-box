@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,gh.io,PROXY
 DOMAIN-SUFFIX,brew.sh,PROXY
 DOMAIN-SUFFIX,segment.io,PROXY
 DOMAIN-SUFFIX,pypi.org,PROXY
+DOMAIN-SUFFIX,app-measurement.com
 DOMAIN,gameapi.onemt.co,PROXY
 DOMAIN,dgapi.onemt.co,PROXY
 DOMAIN,sdkupdate.onemt.co,PROXY
