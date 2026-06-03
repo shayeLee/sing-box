@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "menaapp.net",
+        "onemt.co",
+        "onemt.cc",
+        "onemt.com",
+        "onemtshare.com",
+        "jsbiz.com.cn"
+      ]
+    }
+  ]
+}
