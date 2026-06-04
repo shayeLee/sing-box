@@ -1,14 +1,19 @@
 {
-  "version": 1,
+  "version": 2,
   "rules": [
     {
       "domain_suffix": [
-        "menaapp.net",
-        "onemt.co",
-        "onemt.cc",
-        "onemt.com",
-        "onemtshare.com",
-        "jsbiz.com.cn"
+        "anthropic.com",
+        "clau.de",
+        "claude.ai",
+        "claude.com",
+        "claudemcpclient.com",
+        "claudeusercontent.com",
+        "claudemcpcontent.com",
+        "ipinfo.io"
+      ],
+      "domain": [
+        "servd-anthropic-website.b-cdn.net"
       ]
     }
   ]
