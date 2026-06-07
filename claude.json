@@ -9,10 +9,13 @@
         "claude.com",
         "claudemcpclient.com",
         "claudeusercontent.com",
-        "claudemcpcontent.com"
+        "claudemcpcontent.com",
+        "statsig.com",
+        "sentry.io"
       ],
       "domain": [
-        "servd-anthropic-website.b-cdn.net"
+        "servd-anthropic-website.b-cdn.net",
+        "raw.githubusercontent.com"
       ]
     }
   ]
